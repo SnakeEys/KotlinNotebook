@@ -21,5 +21,8 @@ Tips：文中所有API均是以kotlin 1.1.51版本为基础。
 <tr>
 <td>4</td><td>data class</td>
 </tr>
+<tr>
+<td>5</td><td>control flow(1)</td>
+</tr>
 </table> 
 
