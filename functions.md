@@ -3,30 +3,25 @@
 
 首先讲的内容是函数（方法）；在Java中声明函数和在Kotlin中声明函数的区别，我把区别做了如下表对比：  
 
-	|---------------| --------------| --------------- |
-	|				|  Java  		|  Kotlin  		  |
-	|---------------| --------------| --------------- |
-	|			    |    public		| public(default) |  
-	| 	Modifier	|   private  	|    private      |
-	|	  可见性     |   protected   |    protected    |
-	|		     	|    default	|    internal	  |
-	|			 	|				|      open		  |
-	|---------------|---------------|---------------- |
-	|				|  hello		|   fun hello	  |
-	|	函数名称     |      ...      |     fun ...     |
-	|---------------|---------------|-----------------|
-	|				| (String str)  | (str: String)   |
-	|   参数列表     | (int i)       | (i: Int)        |
-	|	(params)	| (Object... orr| (vararg o: Any) |
-	|				|    .....      |     .....       |
-	|---------------|---------------|-----------------|
-    |				| void          |     Unit        |
-	|  返回值        | String        |     String      |
-	|				| int           |      Int        |
-	|				|    Object     |       Any       |
-	|				|    ......     |      ....       |
-	|---------------|---------------|-----------------|
-     
+|  | Java  | Kotlin | 
+|:---:|:----:|:----:|
+| 访问修饰符		| public | public(default) |
+|				| private  | private |
+|				| protected  |  protected|
+|				| default | internal |
+|				| 		| open |
+| 函数名称		| hello | fun hello |
+|				| ... | ... |
+| 参数列表		| (String str) | (str: String) |
+|				| (int i) | (i: Int) |
+|				| (Object... objects) | (vararg objects: Any) |
+|				| ... | ... |
+| 返回值			| void | Unit(default) |
+|				| String | String |
+|				| int | Int |
+|				| Object | Any |
+|				| ... | ... |
+   
 	
 每个不同点都会单独讲解；Java方面大家都熟，所以直接跳过。
 
