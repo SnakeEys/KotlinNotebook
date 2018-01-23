@@ -16,3 +16,4 @@
 - [data class](https://github.com/SnakeEys/KotlinNotebook/blob/master/data%20class.md)
 - [control flow(1)](https://github.com/SnakeEys/KotlinNotebook/blob/master/control%20flow(1).md)
 - [control flow(2)](https://github.com/SnakeEys/KotlinNotebook/blob/master/control%20flow(2).md)
+- [null safety](https://github.com/SnakeEys/KotlinNotebook/blob/master/null%20safety.md)
