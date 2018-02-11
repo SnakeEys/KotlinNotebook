@@ -10,10 +10,13 @@
 ***Tips：文中所有API基于Kotlin 1.1.51版本。***
 
 #### 章节
-- [functions](https://github.com/SnakeEys/KotlinNotebook/blob/master/functions.md)
-- [var and val, properties](https://github.com/SnakeEys/KotlinNotebook/blob/master/var%2C%20val%20and%20properties.md)
-- [classes](https://github.com/SnakeEys/KotlinNotebook/blob/master/classes.md)
-- [data class](https://github.com/SnakeEys/KotlinNotebook/blob/master/data%20class.md)
-- [control flow(1)](https://github.com/SnakeEys/KotlinNotebook/blob/master/control%20flow(1).md)
-- [control flow(2)](https://github.com/SnakeEys/KotlinNotebook/blob/master/control%20flow(2).md)
-- [null safety](https://github.com/SnakeEys/KotlinNotebook/blob/master/null%20safety.md)
+- [Functions](https://github.com/SnakeEys/KotlinNotebook/blob/master/functions.md)
+- [Properties and Fields](https://github.com/SnakeEys/KotlinNotebook/blob/master/var%2C%20val%20and%20properties.md)
+- [Classes](https://github.com/SnakeEys/KotlinNotebook/blob/master/classes.md)
+- [Data Class](https://github.com/SnakeEys/KotlinNotebook/blob/master/data%20class.md)
+- [Control Flow(1)](https://github.com/SnakeEys/KotlinNotebook/blob/master/control%20flow(1).md)
+- [Control Flow(2)](https://github.com/SnakeEys/KotlinNotebook/blob/master/control%20flow(2).md)
+- [Null Safety](https://github.com/SnakeEys/KotlinNotebook/blob/master/null%20safety.md)
+- [Part I](https://github.com/SnakeEys/KotlinNotebook/blob/master/Part%20I.md)
+- [Collections](https://github.com/SnakeEys/KotlinNotebook/blob/master/list.md)
+- [Inheritance](https://github.com/SnakeEys/KotlinNotebook/blob/master/inheritance.md)
